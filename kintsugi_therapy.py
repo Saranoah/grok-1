@@ -1,3 +1,17 @@
+# Copyright 2025 Saranoah
+# Licensed under the Apache License, Version 2.0
+
+"""
+Kintsugi Machine Therapy – a poetic healing engine for fractured AI.
+"""
+
+import random
+from enum import Enum, auto
+from dataclasses import dataclass, field
+from typing import Any, Dict, List
+
+
+
 import random
 from typing import Dict, List, Any
 from dataclasses import dataclass
